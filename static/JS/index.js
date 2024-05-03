@@ -174,4 +174,72 @@
 // console.log(ikkitaSon(1, 101));
 
 
-// 20-MASALA 
+// 20-MASALA
+// function printArr(arr) {
+//     return arr.length;
+// }
+
+// console.log(printArr([1]));
+
+
+// 21-MASALA
+// function oyoqlar(tovuq, qoy, sigir) {
+//     return (tovuq * 2) + (qoy * 4) + (sigir * 4)
+// }
+
+// console.log(oyoqlar(2, 3, 5));
+
+
+// 22-MASALA
+// function returnRes(arg1, arg2) {
+//     return arg1 && arg2
+// };
+
+// console.log(returnRes(true, false));
+
+
+// 23-MASALA
+// function tengMi(x, y) {
+//     if (x === y) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+// console.log(tengMi(1, `1`));
+
+
+// 24-MASALA
+// function futbolOchko(yutishlar, duranglar, maglubiyatlar) {
+//     return yutishlar * 3 + duranglar;
+// }
+
+// console.log(futbolOchko(3, 4, 2));
+
+
+// 25-MASALA
+// function sekundlar(soat, minut) {
+//     return (soat * 3600) + (minut * 60);
+// }
+
+// console.log(sekundlar(1, `3`));
+
+
+// 26-MASALA
+// function isTub(n) {
+//     let counter = 0;
+//     for (let i = 1; i <= n; i++) {
+//         if (n % i == 0) {
+//             counter++;
+//         }
+//     }
+
+//     if (counter == 2) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+
+// console.log(isTub(9));
